@@ -1,0 +1,25 @@
+.aceitar-cartoes{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text-lojas{
+    margin-top: 90px;
+    color: red;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.img_lojas{
+    display: flex;
+    justify-content: center;
+    width:40%;
+    height: 200px;
+}
+
+
